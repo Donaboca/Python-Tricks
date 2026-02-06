@@ -1,6 +1,6 @@
 # Python-Tricks
 ## Sisällysluettelo
-- [Pythonilla toteutettu Excel-automaation esimerkki, jossa haetaan lähdetiedostosta taulukon data eri tavoin](#pythonilla-toteutettu-excel-automaation-esimerkki--jossa-haetaan-lähdetiedostosta-data-eri-tavoin)
+- [Pythonilla toteutettu Excel-automaation esimerkki, jossa haetaan lähdetiedostosta taulukon data eri tavoin](#pythonilla-toteutettu-excel-automaation-esimerkki-jossa-haetaan-lähdetiedostosta-data-eri-tavoin)
 
 
 ### Pythonilla toteutettu Excel-automaation esimerkki, jossa haetaan lähdetiedostosta taulukon data eri tavoin:

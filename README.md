@@ -1,7 +1,7 @@
 # Python-Tricks
 ## Sisällysluettelo
 - [Pythonilla toteutettu Excel-automaation esimerkki, jossa taulukon data haetaan lähdetiedostosta eri tavoin](#pythonilla-toteutettu-excel-automaation-esimerkki-jossa-taulukon-data-kopioidaan-lähdetiedostosta-eri-tavoin)
-- [Automaatio - Zip-tiedostojen purku](#autmaatio---zip-tiedostojen-purku)
+- [Automaatio - Zip-tiedostojen purku](#automaatio---zip-tiedostojen-purku)
 
 ---
 ### Pythonilla toteutettu Excel-automaation esimerkki, jossa taulukon data kopioidaan lähdetiedostosta eri tavoin

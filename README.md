@@ -1,6 +1,7 @@
 # Python-Tricks
 ## Sisällysluettelo
 - [Pythonilla toteutettu Excel-automaation esimerkki, jossa taulukon data haetaan lähdetiedostosta eri tavoin](#pythonilla-toteutettu-excel-automaation-esimerkki-jossa-taulukon-data-kopioidaan-lähdetiedostosta-eri-tavoin)
+- [Automaatio - Zip-tiedostojen purku](#autmaatio---zip-tiedostojen-purku)
 
 ---
 ### Pythonilla toteutettu Excel-automaation esimerkki, jossa taulukon data kopioidaan lähdetiedostosta eri tavoin
@@ -9,3 +10,9 @@
 - Kuten edellä, mutta viimeisen sarakkeen kaavat otettu mukaan.
 
 ![](Excel-automaatio.gif)
+
+---
+### Automaatio - Zip-tiedostojen purku
+Tässä esimerkissä pakatut tiedostot puretaan toiseen hakemistoon ja alkuperäiset zip-tiedostot poistetaan lähdehakemistosta.
+
+![](Unzip%20files.gif)
